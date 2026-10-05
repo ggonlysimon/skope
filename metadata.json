@@ -1,0 +1,6 @@
+{
+  "name": "Skope — Build • Automate • Grow",
+  "description": "Skope is a modern digital development brand focused on helping creators, communities, and businesses build, automate, and grow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
